@@ -1,0 +1,2 @@
+ABOUT_NLS --- see 'doc/internationalization'
+

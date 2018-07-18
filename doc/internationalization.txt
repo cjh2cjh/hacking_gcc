@@ -1,0 +1,5 @@
+How do GCC accomplish internationalization
+
+   GCC itself was packed with a tiny package called 'gettext' within
+'intl/' directory, and this package supports internationalization.
+
