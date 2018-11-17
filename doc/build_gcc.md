@@ -29,8 +29,8 @@
   `cd ~/rpmbuild/SPECS`
   `rpmbuild -bp --nodeps gcc.spec`
 
-  that would put all extracted files under "~/rpmbuild/BUILD",
-  such as "~/rpmbuild/BUILD/gcc-4.8.5-20150702"
+  that would put all extracted files under "\~/rpmbuild/BUILD",
+  such as "\~/rpmbuild/BUILD/gcc-4.8.5-20150702"
 
 + we want to build GCC under other directory other than the source 
   tree to prevent any generated files polluting the source tree.
